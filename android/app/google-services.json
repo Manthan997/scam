@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "757585286740",
+    "project_id": "holyblessing-41f52",
+    "storage_bucket": "holyblessing-41f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757585286740:android:7acd2a85784aa015247fc1",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757585286740-kv375qa3tfjrar7npm5l4tk0go0is9hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXPMRw0sHyvwEybu7P7z3L-_RnJn3SGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757585286740-kv375qa3tfjrar7npm5l4tk0go0is9hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757585286740:android:ca1852d26d27831e247fc1",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757585286740-kv375qa3tfjrar7npm5l4tk0go0is9hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXPMRw0sHyvwEybu7P7z3L-_RnJn3SGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757585286740-kv375qa3tfjrar7npm5l4tk0go0is9hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
